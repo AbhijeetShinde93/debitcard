@@ -63,6 +63,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Deployment
 
+# Presentation gif
+![](https://github.com/AbhijeetShinde93/debitcard/blob/master/src/assets/ezgif.com-video-to-gif.gif)
+
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
